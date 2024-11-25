@@ -14,6 +14,7 @@
 ### Suites
 
 * [SQL Logic Test](https://github.com/hydromatic/sql-logic-test)
+* [SQLancer](https://github.com/sqlancer/sqlancer)
 
 
 ### Related topics
