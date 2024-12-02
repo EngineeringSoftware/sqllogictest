@@ -15,6 +15,7 @@
 
 * [SQL Logic Test](https://github.com/hydromatic/sql-logic-test)
 * [SQLancer](https://github.com/sqlancer/sqlancer)
+* [sqllogictest github mirror](https://github.com/gregrahn/sqllogictest)
 
 
 ### Related topics
